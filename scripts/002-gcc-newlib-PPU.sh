@@ -2,7 +2,7 @@
 # gcc-newlib-PPU.sh by Naomi Peori (naomi@peori.ca)
 
 GCC="gcc-10.2.0"
-NEWLIB="newlib-1.20.0"
+NEWLIB="newlib-2.0.0"
 
 if [ ! -d ${GCC} ]; then
 
